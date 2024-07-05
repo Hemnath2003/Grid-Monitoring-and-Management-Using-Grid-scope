@@ -1,4 +1,5 @@
 ⚡️ Gridscope Data Analytics Project: Powering Up Grid Monitoring ⚡️
+
 Welcome to the Gridscope Data Analytics Project! This repository showcases how I used the power of data analytics to revolutionize grid monitoring and management, inspired by Gridware's innovative Gridscope technology. Dive in to see how SQL, Python, and Excel can transform raw sensor data into actionable insights, making our power grids smarter and more reliable. 🏗️💡
 
 🚀 Project Overview
